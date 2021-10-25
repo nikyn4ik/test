@@ -1,0 +1,180 @@
+﻿<Window x:Class="CourseProjectAgency.ClientProfileBuyerWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:CourseProjectAgency"
+        mc:Ignorable="d"
+        Title="Карточка покупателя" Height="580" Width="430"
+        WindowStyle = "None"
+        MouseDown="ClientProfileWindow_OnMouseDown"
+        WindowStartupLocation="CenterScreen" Icon="/CourseProjectAgency;component/Images/name.ico">
+    
+    <Grid>
+
+        <Border Width="auto" Height="auto" BorderBrush="#FF4D1B7A" BorderThickness="6" >
+
+            <Border.Background>
+                <LinearGradientBrush>
+                    <GradientBrush.GradientStops>
+                        <GradientStopCollection>
+                            <GradientStop Color="White" Offset="0.0"></GradientStop>
+                        </GradientStopCollection>
+                    </GradientBrush.GradientStops>
+                </LinearGradientBrush>
+            </Border.Background>
+
+            <Grid Name="Main">
+
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="5*"/>
+                    <RowDefinition Height="11*"/>
+                    <RowDefinition Height="1*"/>
+                </Grid.RowDefinitions>
+
+
+
+                <Grid Name="Header" Grid.Row="0" >
+                    <Border >
+                        <Border.Background>
+                            <LinearGradientBrush>
+                                <GradientBrush.GradientStops>
+                                    <GradientStopCollection>
+                                        <GradientStop Color="#FF4D1B7A" Offset="0.0"></GradientStop>
+                                        <GradientStop Color="#8217a5" Offset="1.0"></GradientStop>
+                                    </GradientStopCollection>
+                                </GradientBrush.GradientStops>
+                            </LinearGradientBrush>
+                        </Border.Background>
+
+                        <Grid>
+                            <Grid VerticalAlignment="Top" HorizontalAlignment="Center" Margin="0 15 0 0">
+                                <Image Source="C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\information.ico" Width="110"
+                            PreviewMouseLeftButtonDown="ClientProfile_Back"/>
+                            </Grid>
+
+                            <TextBlock Name="FIO" Text="ABJJJJJJJJJJJJ LUKJ UGOUGUG" VerticalAlignment="Bottom" Margin="0 0 0 15" HorizontalAlignment="Center" FontSize="20" FontFamily="Times New Roman" FontWeight="Bold" Foreground="White"/>
+                        </Grid>
+
+                    </Border>
+                </Grid>
+
+                <Grid Name="Body" Grid.Row="1">
+                    <!--<Frame Name="ProfileFrame" NavigationUIVisibility="Hidden"/>-->
+
+                    <Grid Name="InfoGrid" Background="White" Visibility="Visible">
+
+                        <Grid.RowDefinitions>
+                            <RowDefinition Height="1.8*"/>
+                            <RowDefinition Height="2*"/>
+                            <RowDefinition Height="1.5*"/>
+                            <RowDefinition Height="1.5*"/>
+                            <RowDefinition Height="1.5*"/>
+                            <RowDefinition Height="1.5*"/>
+                            <RowDefinition Height="2*"/>
+                            <RowDefinition Height="1.5*"/>
+                            <RowDefinition Height="1.5*"/>
+                            <RowDefinition Height="0.5*"/>
+
+                        </Grid.RowDefinitions>
+
+                        <Rectangle Grid.Row="1" RadiusX="15" RadiusY="15" Grid.RowSpan="5" Fill="White" HorizontalAlignment="Left" Width="395" Margin="5 0 0 5">
+                            <Rectangle.Effect>
+                                <DropShadowEffect Color="#FF4D1B7A" Direction="0" BlurRadius="10" RenderingBias="Quality" ShadowDepth="1"/>
+                            </Rectangle.Effect>
+                        </Rectangle>
+
+                        <Rectangle Grid.Row="6" RadiusX="15" RadiusY="15" Grid.RowSpan="3" Fill="White" HorizontalAlignment="Left" Width="395" Margin="5 10 0 0">
+                            <Rectangle.Effect>
+                                <DropShadowEffect Color="#FF4D1B7A" Direction="0" BlurRadius="10" RenderingBias="Quality" ShadowDepth="1"/>
+                            </Rectangle.Effect>
+                        </Rectangle>
+
+                        <TextBlock Text="Данные клиента" FontSize="18" FontFamily="Times New Roman" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="#FF4D1B7A" FontWeight="Bold" Grid.Row="0" Margin="0 0 0 10"/>
+
+                        <TextBlock Text="Личные данные" FontSize="14" FontFamily="Times New Roman" VerticalAlignment="Center" HorizontalAlignment="Left" Foreground="#FF4D1B7A" FontWeight="Bold" Grid.Row="1" Margin="15 0 0 0"/>
+
+                        <TextBlock Text="Контактные данные" FontSize="14" FontFamily="Times New Roman" VerticalAlignment="Center" HorizontalAlignment="Left" Foreground="#FF4D1B7A" FontWeight="Bold" Grid.Row="6" Margin="15 0 0 0"/>
+
+                        <TextBlock Text="Дата рождения:" FontSize="14" FontFamily="Times New Roman" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="15 0 0 0" Grid.Row="2" Foreground="#515151" FontWeight="Bold"/>
+                        <TextBlock Name="Birthday" Text="01.01.2001" FontSize="14" FontFamily="Times New Roman" VerticalAlignment="Center" HorizontalAlignment="Left" Margin=" 120 0 0 0" Grid.Row="2" Foreground="Black"/>
+
+                        <TextBlock Text="Домашний адрес:" FontSize="14" FontFamily="Times New Roman" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="15 0 0 0" Grid.Row="7" Foreground="#515151" FontWeight="Bold"/>
+                        <TextBlock Name="HomeAddress" Text="Шуя " FontSize="14" FontFamily="Times New Roman" VerticalAlignment="Center" HorizontalAlignment="Left" Margin=" 132 0 0 0" Grid.Row="7" Foreground="Black"/>
+
+                        <TextBlock Text="Паспорт выдан" FontSize="14" FontFamily="Times New Roman" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="15 0 0 0" Grid.Row="3" Foreground="#515151" FontWeight="Bold"/>
+                        <TextBlock Name="PassportIssuedBy"  TextWrapping="Wrap" FontSize="14" FontFamily="Times New Roman" VerticalAlignment="Center" HorizontalAlignment="Left" Margin=" 125 0 0 0" Grid.Row="3" Foreground="Black"/>
+
+                        <TextBlock Text="Дата выдачи:" FontSize="14" FontFamily="Times New Roman" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="15 0 0 0" Grid.Row="4" Foreground="#515151" FontWeight="Bold"/>
+                        <TextBlock Name="PassportDate" Text="01.01.2001 " FontSize="14" FontFamily="Times New Roman" VerticalAlignment="Center" HorizontalAlignment="Left" Margin=" 105 0 0 0" Grid.Row="4" Foreground="Black"/>
+
+                        <TextBlock Text="Серия и номер:" FontSize="14" FontFamily="Times New Roman" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="15 0 0 0" Grid.Row="5" Foreground="#515151" FontWeight="Bold"/>
+                        <TextBlock Name="PassportSeriesNumber" Text="2414750925" FontSize="14" FontFamily="Times New Roman" VerticalAlignment="Center" HorizontalAlignment="Left" Margin=" 115 0 0 0" Grid.Row="5" Foreground="Black"/>
+
+                        <TextBlock Text="Телефон:" FontSize="14" FontFamily="Times New Roman" VerticalAlignment="Center" HorizontalAlignment="Left" Margin="15 0 0 0" Grid.Row="8" Foreground="#515151" FontWeight="Bold"/>
+                        <TextBlock Name="Phone" Text="89605073743 " FontSize="14" FontFamily="Times New Roman" VerticalAlignment="Center" HorizontalAlignment="Left" Margin=" 80 0 0 0" Grid.Row="8" Foreground="Black"/>
+
+                    </Grid>
+
+                    <Grid Name="ProfileGrid" Background="White" Visibility="Collapsed">
+
+                        <Grid.RowDefinitions>
+                            <RowDefinition/>
+                            <RowDefinition Height="7*"/>
+                        </Grid.RowDefinitions>
+
+                        <TextBlock Name="FIO2" Text="Сделки клиента" FontSize="16" FontFamily="Times New Roman" VerticalAlignment="Center" HorizontalAlignment="Center" Foreground="#FF4D1B7A" FontWeight="Bold" Grid.Row="0" Margin="0 0 0 10" />
+
+                        <DataGrid Name="ClientTrade" Grid.Row="1"  AutoGenerateColumns="False" HorizontalGridLinesBrush="Black"
+                        RowBackground="Snow" AlternatingRowBackground="#FFA7A2B4" IsReadOnly="false" Background="White" Margin="0 -10 0 0" >
+
+                            <DataGrid.Columns>
+                                <DataGridTextColumn Binding="{Binding Date}" Header="Дата"  Width="15*" />
+                                <DataGridTextColumn Binding="{Binding Object}" Header="Объект недвижимости"  Width="35*"  />
+                                <DataGridTextColumn Binding="{Binding Price}" Header="Стоимость"  Width="15*"/>
+                            </DataGrid.Columns>
+
+                        </DataGrid>
+
+                        <StackPanel Orientation="Horizontal" VerticalAlignment="Bottom" HorizontalAlignment="Left" Grid.Row="1">
+
+                            <TextBlock Text="Количество сделок:" FontSize="14" FontFamily="Times New Roman" VerticalAlignment="Bottom" HorizontalAlignment="Left" Foreground="#FF4D1B7A" FontWeight="Bold" Grid.Row="1" Margin="10 0 0 0" />
+                            <TextBlock Name="Kol" Text="Количество сделок:" FontSize="18" FontFamily="Times New Roman"  Foreground="#FF4D1B7A" FontWeight="Bold"  Margin="10 0 0 0" />
+
+                        </StackPanel>
+
+
+                    </Grid>
+
+                </Grid>
+
+                <Grid Name="Footer" Grid.Row="2">
+
+                    <Border >
+                        <Border.Background>
+                            <LinearGradientBrush>
+                                <GradientBrush.GradientStops>
+                                    <GradientStopCollection>
+                                        <GradientStop Color="#8217a5" Offset="0.0"></GradientStop>
+                                        <GradientStop Color="#FF4D1B7A" Offset="1.0"></GradientStop>
+                                    </GradientStopCollection>
+                                </GradientBrush.GradientStops>
+                            </LinearGradientBrush>
+                        </Border.Background>
+
+                        <Grid>
+                            <TextBlock Name="GoToTrades" Text="Перейти к сделкам" FontSize="14" Foreground="White" FontFamily="Times New Roman" HorizontalAlignment="Right" VerticalAlignment="Center" Margin="0 0 10 0" PreviewMouseLeftButtonDown="GoToTrades_PreviewMouseLeftButtonDown"/>
+                            <TextBlock Name="GoToInfo" Text="Вернуться к данным" FontSize="14" Foreground="White" FontFamily="Times New Roman" HorizontalAlignment="Left" VerticalAlignment="Center" Margin="10 0 0 0" PreviewMouseLeftButtonDown="GoToInfo_PreviewMouseLeftButtonDown" Visibility="Collapsed"/>
+                        </Grid>
+
+                    </Border>
+
+                </Grid>
+
+            </Grid>
+
+        </Border>
+        
+    </Grid>
+</Window>

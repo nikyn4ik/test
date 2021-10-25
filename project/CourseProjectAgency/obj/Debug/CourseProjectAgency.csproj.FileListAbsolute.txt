@@ -1,0 +1,553 @@
+C:\Users\Мария\source\repos\CourseProjectAgency\CourseProjectAgency\bin\Debug\CourseProjectAgency.exe.config
+C:\Users\Мария\source\repos\CourseProjectAgency\CourseProjectAgency\bin\Debug\CourseProjectAgency.exe
+C:\Users\Мария\source\repos\CourseProjectAgency\CourseProjectAgency\bin\Debug\CourseProjectAgency.pdb
+C:\Users\Мария\source\repos\CourseProjectAgency\CourseProjectAgency\bin\Debug\EntityFramework.dll
+C:\Users\Мария\source\repos\CourseProjectAgency\CourseProjectAgency\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Мария\source\repos\CourseProjectAgency\CourseProjectAgency\bin\Debug\MaterialDesignColors.dll
+C:\Users\Мария\source\repos\CourseProjectAgency\CourseProjectAgency\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Мария\source\repos\CourseProjectAgency\CourseProjectAgency\bin\Debug\EntityFramework.xml
+C:\Users\Мария\source\repos\CourseProjectAgency\CourseProjectAgency\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Мария\source\repos\CourseProjectAgency\CourseProjectAgency\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Мария\source\repos\CourseProjectAgency\CourseProjectAgency\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Мария\source\repos\CourseProjectAgency\CourseProjectAgency\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Мария\source\repos\CourseProjectAgency\CourseProjectAgency\obj\Debug\CourseProjectAgency.csprojAssemblyReference.cache
+C:\Users\Мария\source\repos\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\Мария\source\repos\CourseProjectAgency\CourseProjectAgency\obj\Debug\App.g.cs
+C:\Users\Мария\source\repos\CourseProjectAgency\CourseProjectAgency\obj\Debug\CourseProjectAgency_MarkupCompile.cache
+C:\Users\Мария\source\repos\CourseProjectAgency\CourseProjectAgency\obj\Debug\CourseProjectAgency_MarkupCompile.lref
+C:\Users\Мария\source\repos\CourseProjectAgency\CourseProjectAgency\obj\Debug\App.baml
+C:\Users\Мария\source\repos\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\MainWindow.baml
+C:\Users\Мария\source\repos\CourseProjectAgency\CourseProjectAgency\obj\Debug\CourseProjectAgency.g.resources
+C:\Users\Мария\source\repos\CourseProjectAgency\CourseProjectAgency\obj\Debug\CourseProjectAgency.Properties.Resources.resources
+C:\Users\Мария\source\repos\CourseProjectAgency\CourseProjectAgency\obj\Debug\CourseProjectAgency.csproj.GenerateResource.cache
+C:\Users\Мария\source\repos\CourseProjectAgency\CourseProjectAgency\obj\Debug\CourseProjectAgency.csproj.CoreCompileInputs.cache
+C:\Users\Мария\source\repos\CourseProjectAgency\CourseProjectAgency\obj\Debug\CourseProjectAgency.csproj.CopyComplete
+C:\Users\Мария\source\repos\CourseProjectAgency\CourseProjectAgency\obj\Debug\CourseProjectAgency.exe
+C:\Users\Мария\source\repos\CourseProjectAgency\CourseProjectAgency\obj\Debug\CourseProjectAgency.pdb
+C:\Users\Мария\source\repos\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\TradesPage.g.cs
+C:\Users\Мария\source\repos\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\TradesPage.baml
+C:\Users\Мария\source\repos\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\AgentsPage.g.cs
+C:\Users\Мария\source\repos\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\ClientsPage.g.cs
+C:\Users\Мария\source\repos\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\ObjectsPage.g.cs
+C:\Users\Мария\source\repos\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\AgentsPage.baml
+C:\Users\Мария\source\repos\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\ClientsPage.baml
+C:\Users\Мария\source\repos\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\ObjectsPage.baml
+C:\Users\Мария\source\repos\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\AddAgentWindow.g.cs
+C:\Users\Мария\source\repos\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\AddAgentWindow.baml
+C:\Users\Мария\source\repos\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\PagesTrades\SaleTradePage.g.cs
+C:\Users\Мария\source\repos\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\PagesTrades\SaleTradePage.baml
+C:\Users\Мария\source\repos\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\PagesTrades\RentTradePage.g.cs
+C:\Users\Мария\source\repos\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\PagesTrades\RentTradePage.baml
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\bin\Debug\CourseProjectAgency.exe.config
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\bin\Debug\CourseProjectAgency.exe
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\bin\Debug\CourseProjectAgency.pdb
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\bin\Debug\EntityFramework.dll
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\bin\Debug\MaterialDesignColors.dll
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\bin\Debug\EntityFramework.xml
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\Windows Edit\EditTradeWindow.g.cs
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\Windows Edit\EditObjectEstateWindow.g.cs
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\Windows Edit\EditClientWindow.g.cs
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\Windows Edit\EditAgentWindow.g.cs
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\Windows Add\AddTradeWindow.g.cs
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\Windows Add\AddObjectEstateWindow.g.cs
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\Windows Add\AddClientWindow.g.cs
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\PagesObjectsEstate\EstateHousePage.g.cs
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\PagesObjectsEstate\EstateFlatPage.g.cs
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\PagesObjectsEstate\EstateAllPage.g.cs
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\Pages Clients\LandlordsPage.g.cs
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\Pages Clients\BuyersPage.g.cs
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\PagesTrades\SaleTradePage.g.cs
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\PagesTrades\RentTradePage.g.cs
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\Pages Clients\SellersPage.g.cs
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\Pages Clients\TenantsPage.g.cs
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\Windows Add\AddAgentWindow.g.cs
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\AgentsPage.g.cs
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\ClientsPage.g.cs
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\ObjectsPage.g.cs
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\TradesPage.g.cs
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\App.g.cs
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\CourseProjectAgency_MarkupCompile.cache
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\CourseProjectAgency_MarkupCompile.lref
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\App.baml
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\Windows Edit\EditTradeWindow.baml
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\Windows Edit\EditObjectEstateWindow.baml
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\Windows Edit\EditClientWindow.baml
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\Windows Edit\EditAgentWindow.baml
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\Windows Add\AddTradeWindow.baml
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\Windows Add\AddObjectEstateWindow.baml
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\Windows Add\AddClientWindow.baml
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\PagesObjectsEstate\EstateHousePage.baml
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\PagesObjectsEstate\EstateFlatPage.baml
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\PagesObjectsEstate\EstateAllPage.baml
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\Pages Clients\LandlordsPage.baml
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\Pages Clients\BuyersPage.baml
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\PagesTrades\SaleTradePage.baml
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\PagesTrades\RentTradePage.baml
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\Pages Clients\SellersPage.baml
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\Pages Clients\TenantsPage.baml
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\Windows Add\AddAgentWindow.baml
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\AgentsPage.baml
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\ClientsPage.baml
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\ObjectsPage.baml
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\TradesPage.baml
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\MainWindow.baml
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\CourseProjectAgency.g.resources
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\CourseProjectAgency.Properties.Resources.resources
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\CourseProjectAgency.csproj.GenerateResource.cache
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\CourseProjectAgency.csproj.CoreCompileInputs.cache
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\CourseProjectAgency.csproj.CopyComplete
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\CourseProjectAgency.exe
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\CourseProjectAgency.pdb
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\Windows Profile\ClientProfileLandlordWindow.g.cs
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\Windows Profile\ClientProfileSellerWindow.g.cs
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\Windows Profile\ClientProfileLandlordWindow.baml
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\Windows Profile\ClientProfileSellerWindow.baml
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\Windows Profile\ClientProfileBuyerWindow.g.cs
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\Windows Profile\ClientProfileBuyerWindow.baml
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\Windows Profile\ClientProfileTenantWindow.g.cs
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\Windows Profile\ClientProfileTenantWindow.baml
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\Windows Profile\AgentProfileWindow.g.cs
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\Windows Profile\AgentProfileWindow.baml
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\SettingsPage.g.cs
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\SettingsPage.baml
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\bin\Debug\LiveCharts.dll
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\bin\Debug\LiveCharts.pdb
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\bin\Debug\LiveCharts.xml
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Мария\Desktop\CourseProjectAgency\CourseProjectAgency\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\bin\Debug\CourseProjectAgency.exe.config
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\bin\Debug\CourseProjectAgency.exe
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\bin\Debug\CourseProjectAgency.pdb
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\bin\Debug\EntityFramework.dll
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\bin\Debug\LiveCharts.dll
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\bin\Debug\MaterialDesignColors.dll
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\bin\Debug\EntityFramework.xml
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\bin\Debug\LiveCharts.pdb
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\bin\Debug\LiveCharts.xml
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\SettingsPage.g.cs
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\Windows Profile\AgentProfileWindow.g.cs
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\Windows Profile\ClientProfileTenantWindow.g.cs
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\Windows Profile\ClientProfileBuyerWindow.g.cs
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\Windows Profile\ClientProfileLandlordWindow.g.cs
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\Windows Profile\ClientProfileSellerWindow.g.cs
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\Windows Edit\EditTradeWindow.g.cs
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\Windows Edit\EditObjectEstateWindow.g.cs
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\Windows Edit\EditClientWindow.g.cs
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\Windows Edit\EditAgentWindow.g.cs
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\Windows Add\AddTradeWindow.g.cs
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\Windows Add\AddObjectEstateWindow.g.cs
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\Windows Add\AddClientWindow.g.cs
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\PagesObjectsEstate\EstateHousePage.g.cs
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\PagesObjectsEstate\EstateFlatPage.g.cs
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\PagesObjectsEstate\EstateAllPage.g.cs
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\Pages Clients\LandlordsPage.g.cs
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\Pages Clients\BuyersPage.g.cs
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\PagesTrades\SaleTradePage.g.cs
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\PagesTrades\RentTradePage.g.cs
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\Pages Clients\SellersPage.g.cs
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\Pages Clients\TenantsPage.g.cs
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\Windows Add\AddAgentWindow.g.cs
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\AgentsPage.g.cs
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\ClientsPage.g.cs
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\ObjectsPage.g.cs
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\TradesPage.g.cs
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\App.g.cs
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\CourseProjectAgency_MarkupCompile.cache
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\CourseProjectAgency_MarkupCompile.lref
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\App.baml
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\SettingsPage.baml
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\Windows Profile\AgentProfileWindow.baml
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\Windows Profile\ClientProfileTenantWindow.baml
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\Windows Profile\ClientProfileBuyerWindow.baml
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\Windows Profile\ClientProfileLandlordWindow.baml
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\Windows Profile\ClientProfileSellerWindow.baml
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\Windows Edit\EditTradeWindow.baml
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\Windows Edit\EditObjectEstateWindow.baml
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\Windows Edit\EditClientWindow.baml
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\Windows Edit\EditAgentWindow.baml
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\Windows Add\AddTradeWindow.baml
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\Windows Add\AddObjectEstateWindow.baml
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\Windows Add\AddClientWindow.baml
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\PagesObjectsEstate\EstateHousePage.baml
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\PagesObjectsEstate\EstateFlatPage.baml
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\PagesObjectsEstate\EstateAllPage.baml
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\Pages Clients\LandlordsPage.baml
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\Pages Clients\BuyersPage.baml
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\PagesTrades\SaleTradePage.baml
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\PagesTrades\RentTradePage.baml
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\Pages Clients\SellersPage.baml
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\Pages Clients\TenantsPage.baml
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\Windows Add\AddAgentWindow.baml
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\AgentsPage.baml
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\ClientsPage.baml
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\ObjectsPage.baml
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\Pages\TradesPage.baml
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\Windows\MainWindow.baml
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\CourseProjectAgency.g.resources
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\CourseProjectAgency.Properties.Resources.resources
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\CourseProjectAgency.csproj.GenerateResource.cache
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\CourseProjectAgency.csproj.CoreCompileInputs.cache
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\CourseProjectAgency.csproj.CopyComplete
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\CourseProjectAgency.exe
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\CourseProjectAgency.pdb
+C:\Users\Мария\Desktop\University\2 курс\4 семестр\КУРСАЧ\Прога\КУРСАЧ\CourseProjectAgency\CourseProjectAgency\obj\Debug\CourseProjectAgency.csprojAssemblyReference.cache
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\bin\Debug\CourseProjectAgency.exe.config
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\bin\Debug\CourseProjectAgency.exe
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\bin\Debug\CourseProjectAgency.pdb
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\bin\Debug\EntityFramework.dll
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\bin\Debug\LiveCharts.dll
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\bin\Debug\MaterialDesignColors.dll
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\bin\Debug\EntityFramework.xml
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\bin\Debug\LiveCharts.pdb
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\bin\Debug\LiveCharts.xml
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\Pages\SettingsPage.g.cs
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\Windows\Windows Profile\AgentProfileWindow.g.cs
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\Windows\Windows Profile\ClientProfileTenantWindow.g.cs
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\Windows\Windows Profile\ClientProfileBuyerWindow.g.cs
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\Windows\Windows Profile\ClientProfileLandlordWindow.g.cs
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\Windows\Windows Profile\ClientProfileSellerWindow.g.cs
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\Windows\Windows Edit\EditTradeWindow.g.cs
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\Windows\Windows Edit\EditObjectEstateWindow.g.cs
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\Windows\Windows Edit\EditClientWindow.g.cs
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\Windows\Windows Edit\EditAgentWindow.g.cs
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\Windows\Windows Add\AddTradeWindow.g.cs
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\Windows\Windows Add\AddObjectEstateWindow.g.cs
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\Windows\Windows Add\AddClientWindow.g.cs
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\Pages\PagesObjectsEstate\EstateHousePage.g.cs
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\Pages\PagesObjectsEstate\EstateFlatPage.g.cs
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\Pages\PagesObjectsEstate\EstateAllPage.g.cs
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\Pages\Pages Clients\LandlordsPage.g.cs
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\Pages\Pages Clients\BuyersPage.g.cs
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\Pages\PagesTrades\SaleTradePage.g.cs
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\Pages\PagesTrades\RentTradePage.g.cs
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\Pages\Pages Clients\SellersPage.g.cs
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\Pages\Pages Clients\TenantsPage.g.cs
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\Windows\Windows Add\AddAgentWindow.g.cs
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\Pages\AgentsPage.g.cs
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\Pages\ClientsPage.g.cs
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\Pages\ObjectsPage.g.cs
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\Pages\TradesPage.g.cs
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\App.g.cs
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\CourseProjectAgency_MarkupCompile.cache
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\CourseProjectAgency_MarkupCompile.lref
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\App.baml
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\Pages\SettingsPage.baml
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\Windows\Windows Profile\AgentProfileWindow.baml
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\Windows\Windows Profile\ClientProfileTenantWindow.baml
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\Windows\Windows Profile\ClientProfileBuyerWindow.baml
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\Windows\Windows Profile\ClientProfileLandlordWindow.baml
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\Windows\Windows Profile\ClientProfileSellerWindow.baml
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\Windows\Windows Edit\EditTradeWindow.baml
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\Windows\Windows Edit\EditObjectEstateWindow.baml
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\Windows\Windows Edit\EditClientWindow.baml
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\Windows\Windows Edit\EditAgentWindow.baml
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\Windows\Windows Add\AddTradeWindow.baml
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\Windows\Windows Add\AddObjectEstateWindow.baml
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\Windows\Windows Add\AddClientWindow.baml
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\Pages\PagesObjectsEstate\EstateHousePage.baml
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\Pages\PagesObjectsEstate\EstateFlatPage.baml
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\Pages\PagesObjectsEstate\EstateAllPage.baml
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\Pages\Pages Clients\LandlordsPage.baml
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\Pages\Pages Clients\BuyersPage.baml
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\Pages\PagesTrades\SaleTradePage.baml
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\Pages\PagesTrades\RentTradePage.baml
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\Pages\Pages Clients\SellersPage.baml
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\Pages\Pages Clients\TenantsPage.baml
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\Windows\Windows Add\AddAgentWindow.baml
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\Pages\AgentsPage.baml
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\Pages\ClientsPage.baml
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\Pages\ObjectsPage.baml
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\Pages\TradesPage.baml
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\Windows\MainWindow.baml
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\CourseProjectAgency.g.resources
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\CourseProjectAgency.Properties.Resources.resources
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\CourseProjectAgency.csproj.GenerateResource.cache
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\CourseProjectAgency.csproj.CoreCompileInputs.cache
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\CourseProjectAgency.csproj.CopyComplete
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\CourseProjectAgency.exe
+C:\Users\Samidare\Desktop\Real-estate-agency-master\CourseProjectAgency\obj\Debug\CourseProjectAgency.pdb
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\bin\Debug\CourseProjectAgency.exe.config
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\bin\Debug\CourseProjectAgency.exe
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\bin\Debug\CourseProjectAgency.pdb
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\bin\Debug\EntityFramework.dll
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\bin\Debug\LiveCharts.dll
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\bin\Debug\MaterialDesignColors.dll
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\bin\Debug\EntityFramework.xml
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\bin\Debug\LiveCharts.pdb
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\bin\Debug\LiveCharts.xml
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\CourseProjectAgency.csprojAssemblyReference.cache
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\Pages\SettingsPage.g.cs
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\Windows\Windows Profile\AgentProfileWindow.g.cs
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\Windows\Windows Profile\ClientProfileTenantWindow.g.cs
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\Windows\Windows Profile\ClientProfileBuyerWindow.g.cs
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\Windows\Windows Profile\ClientProfileLandlordWindow.g.cs
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\Windows\Windows Profile\ClientProfileSellerWindow.g.cs
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\Windows\Windows Edit\EditTradeWindow.g.cs
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\Windows\Windows Edit\EditObjectEstateWindow.g.cs
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\Windows\Windows Edit\EditClientWindow.g.cs
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\Windows\Windows Edit\EditAgentWindow.g.cs
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\Windows\Windows Add\AddTradeWindow.g.cs
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\Windows\Windows Add\AddObjectEstateWindow.g.cs
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\Windows\Windows Add\AddClientWindow.g.cs
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\Pages\PagesObjectsEstate\EstateHousePage.g.cs
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\Pages\PagesObjectsEstate\EstateFlatPage.g.cs
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\Pages\PagesObjectsEstate\EstateAllPage.g.cs
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\Pages\Pages Clients\LandlordsPage.g.cs
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\Pages\Pages Clients\BuyersPage.g.cs
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\Pages\PagesTrades\SaleTradePage.g.cs
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\Pages\PagesTrades\RentTradePage.g.cs
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\Pages\Pages Clients\SellersPage.g.cs
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\Pages\Pages Clients\TenantsPage.g.cs
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\Windows\Windows Add\AddAgentWindow.g.cs
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\Pages\AgentsPage.g.cs
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\Pages\ClientsPage.g.cs
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\Pages\ObjectsPage.g.cs
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\Pages\TradesPage.g.cs
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\App.g.cs
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\CourseProjectAgency_MarkupCompile.cache
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\CourseProjectAgency_MarkupCompile.lref
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\App.baml
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\Pages\SettingsPage.baml
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\Windows\Windows Profile\AgentProfileWindow.baml
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\Windows\Windows Profile\ClientProfileTenantWindow.baml
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\Windows\Windows Profile\ClientProfileBuyerWindow.baml
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\Windows\Windows Profile\ClientProfileLandlordWindow.baml
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\Windows\Windows Profile\ClientProfileSellerWindow.baml
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\Windows\Windows Edit\EditTradeWindow.baml
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\Windows\Windows Edit\EditObjectEstateWindow.baml
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\Windows\Windows Edit\EditClientWindow.baml
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\Windows\Windows Edit\EditAgentWindow.baml
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\Windows\Windows Add\AddTradeWindow.baml
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\Windows\Windows Add\AddObjectEstateWindow.baml
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\Windows\Windows Add\AddClientWindow.baml
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\Pages\PagesObjectsEstate\EstateHousePage.baml
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\Pages\PagesObjectsEstate\EstateFlatPage.baml
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\Pages\PagesObjectsEstate\EstateAllPage.baml
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\Pages\Pages Clients\LandlordsPage.baml
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\Pages\Pages Clients\BuyersPage.baml
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\Pages\PagesTrades\SaleTradePage.baml
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\Pages\PagesTrades\RentTradePage.baml
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\Pages\Pages Clients\SellersPage.baml
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\Pages\Pages Clients\TenantsPage.baml
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\Windows\Windows Add\AddAgentWindow.baml
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\Pages\AgentsPage.baml
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\Pages\ClientsPage.baml
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\Pages\ObjectsPage.baml
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\Pages\TradesPage.baml
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\Windows\MainWindow.baml
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\CourseProjectAgency.g.resources
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\CourseProjectAgency.Properties.Resources.resources
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\CourseProjectAgency.csproj.GenerateResource.cache
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\CourseProjectAgency.csproj.CoreCompileInputs.cache
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\CourseProjectAgency.csproj.CopyComplete
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\CourseProjectAgency.exe
+C:\Users\Sputnik\Desktop\project\CourseProjectAgency\obj\Debug\CourseProjectAgency.pdb
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\bin\Debug\CourseProjectAgency.exe.config
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\bin\Debug\CourseProjectAgency.exe
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\bin\Debug\CourseProjectAgency.pdb
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\bin\Debug\EntityFramework.dll
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\bin\Debug\LiveCharts.dll
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\bin\Debug\MaterialDesignColors.dll
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\bin\Debug\EntityFramework.xml
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\bin\Debug\LiveCharts.pdb
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\bin\Debug\LiveCharts.xml
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\CourseProjectAgency.csprojAssemblyReference.cache
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\Pages\SettingsPage.g.cs
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\Windows\Windows Profile\AgentProfileWindow.g.cs
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\Windows\Windows Profile\ClientProfileTenantWindow.g.cs
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\Windows\Windows Profile\ClientProfileBuyerWindow.g.cs
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\Windows\Windows Profile\ClientProfileLandlordWindow.g.cs
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\Windows\Windows Profile\ClientProfileSellerWindow.g.cs
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\Windows\Windows Edit\EditTradeWindow.g.cs
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\Windows\Windows Edit\EditObjectEstateWindow.g.cs
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\Windows\Windows Edit\EditClientWindow.g.cs
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\Windows\Windows Edit\EditAgentWindow.g.cs
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\Windows\Windows Add\AddTradeWindow.g.cs
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\Windows\Windows Add\AddObjectEstateWindow.g.cs
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\Windows\Windows Add\AddClientWindow.g.cs
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\Pages\PagesObjectsEstate\EstateHousePage.g.cs
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\Pages\PagesObjectsEstate\EstateFlatPage.g.cs
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\Pages\PagesObjectsEstate\EstateAllPage.g.cs
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\Pages\Pages Clients\LandlordsPage.g.cs
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\Pages\Pages Clients\BuyersPage.g.cs
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\Pages\PagesTrades\SaleTradePage.g.cs
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\Pages\PagesTrades\RentTradePage.g.cs
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\Pages\Pages Clients\SellersPage.g.cs
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\Pages\Pages Clients\TenantsPage.g.cs
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\Windows\Windows Add\AddAgentWindow.g.cs
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\Pages\AgentsPage.g.cs
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\Pages\ClientsPage.g.cs
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\Pages\ObjectsPage.g.cs
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\Pages\TradesPage.g.cs
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\App.g.cs
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\CourseProjectAgency_MarkupCompile.cache
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\CourseProjectAgency_MarkupCompile.lref
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\App.baml
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\Pages\SettingsPage.baml
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\Windows\Windows Profile\AgentProfileWindow.baml
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\Windows\Windows Profile\ClientProfileTenantWindow.baml
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\Windows\Windows Profile\ClientProfileBuyerWindow.baml
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\Windows\Windows Profile\ClientProfileLandlordWindow.baml
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\Windows\Windows Profile\ClientProfileSellerWindow.baml
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\Windows\Windows Edit\EditTradeWindow.baml
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\Windows\Windows Edit\EditObjectEstateWindow.baml
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\Windows\Windows Edit\EditClientWindow.baml
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\Windows\Windows Edit\EditAgentWindow.baml
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\Windows\Windows Add\AddTradeWindow.baml
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\Windows\Windows Add\AddObjectEstateWindow.baml
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\Windows\Windows Add\AddClientWindow.baml
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\Pages\PagesObjectsEstate\EstateHousePage.baml
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\Pages\PagesObjectsEstate\EstateFlatPage.baml
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\Pages\PagesObjectsEstate\EstateAllPage.baml
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\Pages\Pages Clients\LandlordsPage.baml
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\Pages\Pages Clients\BuyersPage.baml
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\Pages\PagesTrades\SaleTradePage.baml
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\Pages\PagesTrades\RentTradePage.baml
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\Pages\Pages Clients\SellersPage.baml
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\Pages\Pages Clients\TenantsPage.baml
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\Windows\Windows Add\AddAgentWindow.baml
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\Pages\AgentsPage.baml
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\Pages\ClientsPage.baml
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\Pages\ObjectsPage.baml
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\Pages\TradesPage.baml
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\Windows\MainWindow.baml
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\CourseProjectAgency.g.resources
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\CourseProjectAgency.Properties.Resources.resources
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\CourseProjectAgency.csproj.GenerateResource.cache
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\CourseProjectAgency.csproj.CoreCompileInputs.cache
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\CourseProjectAgency.csproj.CopyComplete
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\CourseProjectAgency.exe
+C:\Users\Sputnik\Desktop\project — копия\CourseProjectAgency\obj\Debug\CourseProjectAgency.pdb
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\bin\Debug\CourseProjectAgency.exe.config
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\bin\Debug\CourseProjectAgency.exe
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\bin\Debug\CourseProjectAgency.pdb
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\bin\Debug\EntityFramework.dll
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\bin\Debug\LiveCharts.dll
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\bin\Debug\MaterialDesignColors.dll
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\bin\Debug\EntityFramework.xml
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\bin\Debug\LiveCharts.pdb
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\bin\Debug\LiveCharts.xml
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\bin\Debug\MaterialDesignColors.pdb
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\CourseProjectAgency.csproj.AssemblyReference.cache
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\Pages\SettingsPage.g.cs
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\Windows\Windows Profile\AgentProfileWindow.g.cs
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\Windows\Windows Profile\ClientProfileTenantWindow.g.cs
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\Windows\Windows Profile\ClientProfileBuyerWindow.g.cs
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\Windows\Windows Profile\ClientProfileLandlordWindow.g.cs
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\Windows\Windows Profile\ClientProfileSellerWindow.g.cs
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\Windows\Windows Edit\EditTradeWindow.g.cs
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\Windows\Windows Edit\EditObjectEstateWindow.g.cs
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\Windows\Windows Edit\EditClientWindow.g.cs
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\Windows\Windows Edit\EditAgentWindow.g.cs
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\Windows\Windows Add\AddTradeWindow.g.cs
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\Windows\Windows Add\AddObjectEstateWindow.g.cs
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\Windows\Windows Add\AddClientWindow.g.cs
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\Pages\PagesObjectsEstate\EstateHousePage.g.cs
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\Pages\PagesObjectsEstate\EstateFlatPage.g.cs
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\Pages\PagesObjectsEstate\EstateAllPage.g.cs
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\Pages\Pages Clients\LandlordsPage.g.cs
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\Pages\Pages Clients\BuyersPage.g.cs
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\Pages\PagesTrades\SaleTradePage.g.cs
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\Pages\PagesTrades\RentTradePage.g.cs
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\Pages\Pages Clients\SellersPage.g.cs
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\Pages\Pages Clients\TenantsPage.g.cs
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\Windows\Windows Add\AddAgentWindow.g.cs
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\Pages\AgentsPage.g.cs
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\Pages\ClientsPage.g.cs
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\Pages\ObjectsPage.g.cs
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\Pages\TradesPage.g.cs
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\Windows\MainWindow.g.cs
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\App.g.cs
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\CourseProjectAgency_MarkupCompile.cache
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\CourseProjectAgency_MarkupCompile.lref
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\App.baml
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\Pages\SettingsPage.baml
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\Windows\Windows Profile\AgentProfileWindow.baml
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\Windows\Windows Profile\ClientProfileTenantWindow.baml
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\Windows\Windows Profile\ClientProfileBuyerWindow.baml
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\Windows\Windows Profile\ClientProfileLandlordWindow.baml
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\Windows\Windows Profile\ClientProfileSellerWindow.baml
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\Windows\Windows Edit\EditTradeWindow.baml
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\Windows\Windows Edit\EditObjectEstateWindow.baml
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\Windows\Windows Edit\EditClientWindow.baml
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\Windows\Windows Edit\EditAgentWindow.baml
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\Windows\Windows Add\AddTradeWindow.baml
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\Windows\Windows Add\AddObjectEstateWindow.baml
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\Windows\Windows Add\AddClientWindow.baml
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\Pages\PagesObjectsEstate\EstateHousePage.baml
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\Pages\PagesObjectsEstate\EstateFlatPage.baml
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\Pages\PagesObjectsEstate\EstateAllPage.baml
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\Pages\Pages Clients\LandlordsPage.baml
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\Pages\Pages Clients\BuyersPage.baml
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\Pages\PagesTrades\SaleTradePage.baml
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\Pages\PagesTrades\RentTradePage.baml
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\Pages\Pages Clients\SellersPage.baml
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\Pages\Pages Clients\TenantsPage.baml
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\Windows\Windows Add\AddAgentWindow.baml
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\Pages\AgentsPage.baml
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\Pages\ClientsPage.baml
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\Pages\ObjectsPage.baml
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\Pages\TradesPage.baml
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\Windows\MainWindow.baml
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\CourseProjectAgency.g.resources
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\CourseProjectAgency.Properties.Resources.resources
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\CourseProjectAgency.csproj.GenerateResource.cache
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\CourseProjectAgency.csproj.CoreCompileInputs.cache
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\CourseProjectAgency.exe
+C:\Users\Hedgehog\Desktop\project\CourseProjectAgency\obj\Debug\CourseProjectAgency.pdb

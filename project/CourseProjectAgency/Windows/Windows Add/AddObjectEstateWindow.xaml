@@ -1,0 +1,190 @@
+﻿<Window x:Class="CourseProjectAgency.AddObjectEstateWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:CourseProjectAgency"
+        mc:Ignorable="d"
+        Title="Добавление объекта недвижимости" Height="500" Width="800"
+        AllowsTransparency="True" Background="Transparent"
+        WindowStyle = "None"
+        MouseDown="AddObjectWindow_OnMouseDown"
+        WindowStartupLocation="CenterScreen" Icon="/CourseProjectAgency;component/Images/real-estate.ico">
+
+    <Window.Resources>
+        <Storyboard x:Key="ShowPopup">
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetName="popupMessageGrid"
+                        Storyboard.TargetProperty="Visibility">
+                <DiscreteObjectKeyFrame KeyTime="0:0:0" Value="{x:Static Visibility.Visible}"/>
+                <DiscreteObjectKeyFrame KeyTime="0:0:1.5" Value="{x:Static Visibility.Collapsed}"/>
+            </ObjectAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="popupMessageGrid">
+                <EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="0.8"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="0.79"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1.5" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <ThicknessAnimationUsingKeyFrames Storyboard.TargetProperty="Margin" Storyboard.TargetName="popupMessageGrid" BeginTime="00:00:00">
+                <SplineThicknessKeyFrame KeyTime="00:00:00" Value="0, 0, 0, 0" />
+                <SplineThicknessKeyFrame KeyTime="00:00:0.5" Value="0, 20, 0, 0" />
+                <SplineThicknessKeyFrame KeyTime="00:00:1" Value="0, 20, 0, 0" />
+                <SplineThicknessKeyFrame KeyTime="00:00:1.5" Value="0, 0, 0, 0" />
+            </ThicknessAnimationUsingKeyFrames>
+        </Storyboard>
+    </Window.Resources>
+
+    <Grid>
+
+        <Grid Opacity="0" x:Name="popupMessageGrid" Panel.ZIndex="1" Visibility="Collapsed">
+            <Border Width="180" Height="50" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0, 60, 10, 0" CornerRadius="3"
+                        Background="#FF4D1B7A">
+                <TextBlock x:Name="popupMessage" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="0, 0, 0, 0" Text="My Text" Foreground="White" FontSize="12" FontWeight="Bold"/>
+            </Border>
+        </Grid>
+
+        <Border Width="auto" Height="auto" BorderBrush="#FF4D1B7A" BorderThickness="4" CornerRadius="0,0,60,60">
+            <Border.Background>
+                <LinearGradientBrush>
+                    <GradientBrush.GradientStops>
+                        <GradientStopCollection>
+                            <GradientStop Color="White" Offset="0.0"></GradientStop>
+                        </GradientStopCollection>
+                    </GradientBrush.GradientStops>
+                </LinearGradientBrush>
+            </Border.Background>
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="4*"/>
+                    <RowDefinition Height="2*"/>
+                    <RowDefinition Height="2.7*"/>
+                    <RowDefinition Height="2*"/>
+                    <RowDefinition Height="2.5*"/>
+                    <RowDefinition Height="3*"/>
+                    <RowDefinition Height="4*"/>
+                    <RowDefinition Height="2*"/>
+                    <RowDefinition Height="2.5*"/>
+                    <RowDefinition Height="3*"/>
+
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                    <ColumnDefinition Width="3*"/>
+                    <ColumnDefinition Width="3*"/>
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+
+                <Grid Grid.Row="0" Grid.Column="1" />
+                <Grid Grid.Row="0" Grid.Column="2" />
+                <Grid Grid.Row="1" Grid.Column="1" />
+                <Grid Grid.Row="1" Grid.Column="2" />
+                <Grid Grid.Row="2" Grid.Column="1" />
+                <Grid Grid.Row="3" Grid.Column="2" />
+                <Grid Grid.Row="3" Grid.Column="1" />
+                <Grid Grid.Row="3" Grid.Column="2" />
+                <Grid Grid.Row="4" Grid.Column="1" />
+                <Grid Grid.Row="4" Grid.Column="2" />
+                <Grid Grid.Row="5" Grid.Column="1" />
+                <Grid Grid.Row="5" Grid.Column="2" />
+                <Grid Grid.Row="6" Grid.Column="1" />
+                <Grid Grid.Row="6" Grid.Column="2" />
+                <Grid Grid.Row="7" Grid.Column="1" />
+                <Grid Grid.Row="7" Grid.Column="2" />
+
+                <Grid Grid.Row="0" Grid.ColumnSpan="4" Background="#FF4D1B7A">
+                    <Button x:Name="ButtonBack" Width="60" Height="60" VerticalAlignment="Top" HorizontalAlignment="Left" Background="{x:Null}" BorderBrush="{x:Null}" Click="ButtonBack_Click">
+                        <materialDesign:PackIcon Kind="ArrowBack" Foreground="White" Width="30" Height="30" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                    </Button>
+                    <TextBlock Text="Добавление объекта недвижимости" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="0" Margin="3" FontFamily="Tahoma" FontSize="32" Foreground="White" />
+                </Grid>
+                <Grid>
+
+                </Grid>
+                <TextBlock Text="Адрес объекта недвижимости" TextDecorations="UnderLine" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="1" Grid.Column="1" Margin="3" FontFamily="Tahoma" FontSize="16" Foreground="Black" />
+                <TextBox Name="AddressObject" Grid.Column="1" Grid.Row="2" VerticalAlignment="Center" HorizontalContentAlignment="Center"  Margin="10" Foreground="Black"  BorderBrush="Black"/>
+
+                <TextBlock Text="Кадастровый номер" TextDecorations="UnderLine" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="1" Grid.Column="2" Margin="3" FontFamily="Tahoma" FontSize="16" Foreground="Black"/>
+                <TextBox Name="CadastralNumber" Grid.Column="2" Grid.Row="2" VerticalAlignment="Center" HorizontalContentAlignment="Center"  Margin="10" Foreground="Black"  BorderBrush="Black" materialDesign:HintAssist.Hint="xx:xx:xxxxxx:xxxx"/>
+
+               
+                <TextBlock Text="Общая площадь" TextDecorations="UnderLine" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="3" Grid.Column="1" Margin="3" FontFamily="Tahoma" FontSize="16" Foreground="Black" />
+                <TextBox Name="Square" Grid.Column="1" Grid.Row="4" VerticalAlignment="Center" HorizontalContentAlignment="Center"  Margin="10" Foreground="Black"  BorderBrush="Black"/>
+
+                <TextBlock Text="ФИО владельца" TextDecorations="UnderLine" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="3" Grid.Column="2" Margin="3" FontFamily="Tahoma" FontSize="16" Foreground="Black" />
+                <ComboBox Name="OwnerCB" VerticalAlignment="Center" Margin="0 0 0 10" Background="White"
+                     DisplayMemberPath="full_name"
+                     SelectedValuePath="default"
+                     SelectedValue="client_id"
+                     ItemsSource="{Binding}"
+                     IsEditable="True"
+                     Grid.Column="2" Grid.Row="4"  Foreground="Black"  BorderBrush="Black" />
+
+                <StackPanel Grid.Column="1" Grid.Row="5" HorizontalAlignment="Center" VerticalAlignment="Center" Orientation="Horizontal">
+                    <ToggleButton Name="TBFlat"  Style="{StaticResource MaterialDesignSwitchToggleButton}"  Checked="TBFlat_Checked"/>
+                    <TextBlock Text="Квартира" Margin="10 0 0 0"/>
+                </StackPanel>
+
+                <StackPanel Grid.Column="2" Grid.Row="5" HorizontalAlignment="Center" VerticalAlignment="Center" Orientation="Horizontal">
+                    <ToggleButton Name="TBHouse"  Style="{StaticResource MaterialDesignSwitchToggleButton}" Checked="TBHouse_Checked"/>
+                    <TextBlock Text="Частный дом" Margin="10 0 0 0"/>
+                </StackPanel>
+
+                <Grid Name="FlatGrid" Grid.Column="1" Grid.Row="6" Grid.ColumnSpan="2" Visibility="Collapsed">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                   
+                    <StackPanel Grid.Column="0">
+                            <TextBlock Text="Номер квартиры" TextDecorations="UnderLine" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="1" Grid.Column="1" FontFamily="Tahoma" FontSize="16" Foreground="Black" />
+                            <TextBox Name="NumberFlat" VerticalAlignment="Center" HorizontalContentAlignment="Center"  Margin="10" Foreground="Black"  BorderBrush="Black"/>
+                    </StackPanel>
+
+                    <StackPanel Grid.Column="1">
+                            <TextBlock Text="Номер этажа" TextDecorations="UnderLine" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="1" Grid.Column="1" FontFamily="Tahoma" FontSize="16" Foreground="Black" />
+                            <TextBox Name="NumberFloor" VerticalAlignment="Center" HorizontalContentAlignment="Center"  Margin="10" Foreground="Black"  BorderBrush="Black"/>
+                    </StackPanel>
+
+                    <StackPanel Grid.Column="2">
+                            <TextBlock Text="Количество комнат" TextDecorations="UnderLine" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="1" Grid.Column="1" FontFamily="Tahoma" FontSize="16" Foreground="Black" />
+                        <TextBox Name="QuantityRooms" VerticalAlignment="Center" HorizontalContentAlignment="Center"  Margin="10" Foreground="Black"  BorderBrush="Black"  />
+                    </StackPanel>
+                </Grid>
+
+                <Grid Name="HouseGrid" Grid.Column="1" Grid.Row="6" Grid.ColumnSpan="2" Visibility="Collapsed">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <StackPanel Grid.Column="0">
+                        <TextBlock Text="Размер участка" TextDecorations="UnderLine" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="1" Grid.Column="1" Margin="3" FontFamily="Tahoma" FontSize="16" Foreground="Black" />
+                        <TextBox Name="PlotSize" VerticalAlignment="Center" HorizontalContentAlignment="Center"  Margin="10" Foreground="Black"  BorderBrush="Black"/>
+                    </StackPanel>
+
+                    <StackPanel Grid.Column="1">
+                        <TextBlock Text="Количество этажей" TextDecorations="UnderLine" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="1" Grid.Column="1" Margin="3" FontFamily="Tahoma" FontSize="16" Foreground="Black" />
+                        <TextBox Name="QuantityFloors" VerticalAlignment="Center" HorizontalContentAlignment="Center"  Margin="10" Foreground="Black"  BorderBrush="Black"/>
+                    </StackPanel>
+
+                </Grid>
+
+                <TextBlock Text="Статус" TextDecorations="UnderLine" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="7" Grid.Column="1" Margin="3" FontFamily="Tahoma" FontSize="16" Foreground="Black" />
+                <ComboBox Name="StatusCB" VerticalAlignment="Center" Margin="0 0 0 10" Background="White"
+                     DisplayMemberPath="name"
+                     SelectedValuePath="default"
+                     SelectedValue="id"
+                     ItemsSource="{Binding}"
+                     IsEditable="True"
+                     Grid.Column="1" Grid.Row="8"  Foreground="Black"  BorderBrush="Black" />
+
+                <TextBlock Text="Стоимость" TextDecorations="UnderLine" VerticalAlignment="Center" HorizontalAlignment="Center" Grid.Row="7" Grid.Column="2" Margin="3" FontFamily="Tahoma" FontSize="16" Foreground="Black" />
+                <TextBox Name="PriceObjectEstate" Grid.Column="2" Grid.Row="8" VerticalAlignment="Center" HorizontalContentAlignment="Center"  Margin="10" Foreground="Black"  BorderBrush="Black"/>
+
+                <Grid Grid.Row="9" HorizontalAlignment="Center" Background="Transparent" Grid.Column="1" Grid.ColumnSpan="2">
+                    <Button IsDefault="True"  MinWidth="150" Margin="5"  FontSize="20" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" Background="#FF4D1B7A" Padding="16,1,16,4" Click="ButtonAddObjectEstate_Click">Добавить</Button>
+                </Grid>
+            </Grid>
+        </Border>
+
+    </Grid>
+</Window>

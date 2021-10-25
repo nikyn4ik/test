@@ -1,0 +1,204 @@
+﻿<Window x:Class="CourseProjectAgency.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:local="clr-namespace:CourseProjectAgency"
+        mc:Ignorable="d"
+        Title="Агентство недвижимости" Height="650" Width="1000"
+        AllowsTransparency="True"
+        WindowStyle = "None"
+        MouseDown="MainWindow_OnMouseDown"
+        WindowStartupLocation="CenterScreen" Icon="/CourseProjectAgency;component/Images/loan.ico">
+
+    <Window.Resources>
+        <Storyboard x:Key="ShowPopup">
+            <ObjectAnimationUsingKeyFrames Storyboard.TargetName="popupMessageGrid"
+                        Storyboard.TargetProperty="Visibility">
+                <DiscreteObjectKeyFrame KeyTime="0:0:0" Value="{x:Static Visibility.Visible}"/>
+                <DiscreteObjectKeyFrame KeyTime="0:0:1.5" Value="{x:Static Visibility.Collapsed}"/>
+            </ObjectAnimationUsingKeyFrames>
+            <DoubleAnimationUsingKeyFrames Storyboard.TargetProperty="(UIElement.Opacity)" Storyboard.TargetName="popupMessageGrid">
+                <EasingDoubleKeyFrame KeyTime="0:0:0.5" Value="0.8"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1" Value="0.79"/>
+                <EasingDoubleKeyFrame KeyTime="0:0:1.5" Value="0"/>
+            </DoubleAnimationUsingKeyFrames>
+            <ThicknessAnimationUsingKeyFrames Storyboard.TargetProperty="Margin" Storyboard.TargetName="popupMessageGrid" BeginTime="00:00:00">
+                <SplineThicknessKeyFrame KeyTime="00:00:00" Value="0, 0, 0, 0" />
+                <SplineThicknessKeyFrame KeyTime="00:00:0.5" Value="0, 20, 0, 0" />
+                <SplineThicknessKeyFrame KeyTime="00:00:1" Value="0, 20, 0, 0" />
+                <SplineThicknessKeyFrame KeyTime="00:00:1.5" Value="0, 0, 0, 0" />
+            </ThicknessAnimationUsingKeyFrames>
+        </Storyboard>
+
+        <Style
+        x:Key="ButtonMinimize"
+        TargetType="{x:Type Button}" 
+        BasedOn="{StaticResource MaterialDesignRaisedButton}">
+            <Setter Property="Content">
+                <Setter.Value>
+                    <materialDesign:PackIcon Kind="WindowMinimize" Foreground="White" Width="40" Height="40" Margin="-10,10,-10,-10" ToolTip="Свернуть"/>
+                </Setter.Value>
+            </Setter>
+            <Style.Triggers>
+                <Trigger  Property="IsMouseOver" Value="True">
+                    <Setter Property="Content">
+                        <Setter.Value>
+                            <materialDesign:PackIcon Kind="WindowMinimize" Foreground="#FFEACAC7" Width="45" Height="45" Margin="-10,10,-10,-10" ToolTip="Свернуть"/>
+                        </Setter.Value>
+                    </Setter>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+        <Style
+        x:Key="ButtonOpen"
+        TargetType="{x:Type Button}" 
+        BasedOn="{StaticResource MaterialDesignRaisedButton}">
+            <Setter Property="Content">
+                <Setter.Value>
+                    <materialDesign:PackIcon Kind="Application" Foreground="White" Width="40" Height="40" Margin="-10" ToolTip="Развернуть"/>
+                </Setter.Value>
+            </Setter>
+            <Style.Triggers>
+                <Trigger  Property="IsMouseOver" Value="True">
+                    <Setter Property="Content">
+                        <Setter.Value>
+                            <materialDesign:PackIcon Kind="Application" Foreground="#FFEACAC7" Width="45" Height="45" Margin="-10" ToolTip="Развернуть"/>
+                        </Setter.Value>
+                    </Setter>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+        <Style
+        x:Key="ButtonClose"
+        TargetType="{x:Type Button}" 
+        BasedOn="{StaticResource MaterialDesignRaisedButton}">
+            <Setter Property="Content">
+                <Setter.Value>
+                    <materialDesign:PackIcon Kind="Close" Foreground="White" Width="40" Height="40" Margin="-10" ToolTip="Закрыть"/>
+                </Setter.Value>
+            </Setter>
+            <Style.Triggers>
+                <Trigger  Property="IsMouseOver" Value="True">
+                    <Setter Property="Content">
+                        <Setter.Value>
+                            <materialDesign:PackIcon Kind="Close" Foreground="#FFEACAC7" Width="45" Height="45" Margin="-10" ToolTip="Закрыть"/>
+                        </Setter.Value>
+                    </Setter>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+
+        <Storyboard x:Key="OpenMenu">
+            <DoubleAnimation Storyboard.TargetProperty="(FrameworkElement.Width)" Storyboard.TargetName="GridMenu" By="200" Duration="0:0:0.5"/>
+        </Storyboard>
+        <Storyboard x:Key="CloseMenu">
+            <DoubleAnimation Storyboard.TargetProperty="(FrameworkElement.Width)" Storyboard.TargetName="GridMenu" By="-200" Duration="0:0:0.5"/>
+        </Storyboard>
+        <Storyboard x:Key="OpenMenu1">
+            <ThicknessAnimationUsingKeyFrames Storyboard.TargetProperty="Margin" Storyboard.TargetName="MainFrame" BeginTime="00:00:00">
+                <SplineThicknessKeyFrame KeyTime="00:00:00" Value="250, 0, 0, 0" />
+                <SplineThicknessKeyFrame KeyTime="00:00:0.5" Value="55, 0, 0, 0" />
+            </ThicknessAnimationUsingKeyFrames>
+        </Storyboard>
+        <Storyboard x:Key="CloseMenu1">
+            <ThicknessAnimationUsingKeyFrames Storyboard.TargetProperty="Margin" Storyboard.TargetName="MainFrame" BeginTime="00:00:00">
+                <SplineThicknessKeyFrame KeyTime="00:00:00" Value="55, 0, 0, 0" />
+                <SplineThicknessKeyFrame KeyTime="00:00:0.5" Value="250, 0, 0, 0" />
+            </ThicknessAnimationUsingKeyFrames>
+        </Storyboard>
+    </Window.Resources>
+    <Window.Triggers>
+        <EventTrigger RoutedEvent="ButtonBase.Click" SourceName="ButtonOpenMenu">
+            <BeginStoryboard Storyboard="{StaticResource OpenMenu}"/>
+            <BeginStoryboard Storyboard="{StaticResource CloseMenu1}"/>
+        </EventTrigger>
+        <EventTrigger RoutedEvent="ButtonBase.Click" SourceName="ButtonCloseMenu">
+            <BeginStoryboard Storyboard="{StaticResource CloseMenu}"/>
+            <BeginStoryboard Storyboard="{StaticResource OpenMenu1}"/>
+        </EventTrigger>
+    </Window.Triggers>
+    
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="60"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+
+        <Grid x:Name="GridTopPanel" Grid.Row="0" Height="60" VerticalAlignment="Top" Background="#FF4D1B7A">
+            <StackPanel Orientation="Horizontal" VerticalAlignment="Center" HorizontalAlignment="Center">
+                <materialDesign:PackIcon Kind="HouseCity" Foreground="White" Height="40" Width="40" Margin="5"/>
+                <TextBlock Text=" Агентство недвижимости " Foreground="White" FontSize="35" FontFamily="Times New Roman" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+            </StackPanel>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
+                <Button Background="{x:Null}" BorderBrush="{x:Null}" VerticalAlignment="Center"  Height="50" Width="50" Style="{StaticResource ButtonMinimize}" Click="ButtonMinimize_Click"/>
+                <Button Background="{x:Null}" BorderBrush="{x:Null}" VerticalAlignment="Center"  Height="50" Width="50"   Style="{StaticResource ButtonOpen}" Click="ButtonOpen_Click"/>
+                <Button Background="{x:Null}" BorderBrush="{x:Null}" VerticalAlignment="Center"  Width="50" Height="50" Style="{StaticResource ButtonClose}" Click="ButtonClose_Click"/>
+            </StackPanel>
+        </Grid>
+
+        <Grid Grid.Row="1" >
+
+            <Grid x:Name="MainFrame" Margin="55 0 0 0">
+                <Label x:Name="LabelHeader" FontSize="28" FontFamily="Times New Roman"  VerticalAlignment="Top" HorizontalAlignment="Center" />
+                <Frame x:Name="Frame" Margin="0 50 0 0" Grid.Row="1" NavigationUIVisibility="Hidden"/>
+            </Grid>
+
+            <Grid x:Name="GridMenu" Width="55" Grid.Row="1" HorizontalAlignment="Left" Background="#FF2C0F46">
+                <StackPanel >
+                    <Grid Height="50" Background="White" >
+                        <Border BorderThickness="2, 0, 2, 0" BorderBrush="#FF2C0F46">
+                            <StackPanel>
+                                <Button x:Name="ButtonOpenMenu" Width="50" Height="50" VerticalAlignment="Top" HorizontalAlignment="Right" Background="{x:Null}" BorderBrush="{x:Null}" Click="ButtonOpenMenu_Click">
+                                    <materialDesign:PackIcon Kind="Menu" Foreground="#FF2C0F46" Width="30" Height="30" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                                </Button>
+
+                                <Button x:Name="ButtonCloseMenu" Width="50" Height="50" VerticalAlignment="Top" HorizontalAlignment="Right" Background="{x:Null}" BorderBrush="{x:Null}" Visibility="Collapsed" Click="ButtonCloseMenu_Click">
+                                    <materialDesign:PackIcon Kind="ArrowBack" Foreground="#FF2C0F46" Width="30" Height="30" VerticalAlignment="Center" HorizontalAlignment="Center"/>
+                                </Button>
+                            </StackPanel>
+                        </Border>
+                    </Grid>
+
+                    <ListView ScrollViewer.HorizontalScrollBarVisibility="Disabled">
+                        <ListViewItem x:Name="ListViewTrade" Height="60" MouseLeftButtonUp="ListViewItemTrades_MouseLeftButtonUp">
+                            <StackPanel Orientation="Horizontal" Margin="3 0 0 0">
+                                <materialDesign:PackIcon Kind="FileDocumentBox" Width="30" Height="30" Margin="2" Foreground="White" VerticalAlignment="Center"/>
+                                <TextBlock Text="Сделки" FontSize="20" FontFamily="Times New Roman" Foreground="White" VerticalAlignment="Center" Margin="13 10"/>
+                            </StackPanel>
+                        </ListViewItem>
+                        <ListViewItem Height="60" MouseLeftButtonUp="ListViewItemClients_MouseLeftButtonUp">
+                            <StackPanel Orientation="Horizontal" Margin="3 0 0 0">
+                                <materialDesign:PackIcon Kind="Users" Width="30" Height="30" Margin="2" Foreground="White" VerticalAlignment="Center"/>
+                                <TextBlock Text="Клиенты" FontSize="20" FontFamily="Times New Roman" Foreground="White" VerticalAlignment="Center" Margin="13 10"/>
+                            </StackPanel>
+                        </ListViewItem>
+                        <ListViewItem Height="60" MouseLeftButtonUp="ListViewItemObjects_MouseLeftButtonUp">
+                            <StackPanel Orientation="Horizontal" Margin="3 0 0 0">
+                                <materialDesign:PackIcon Kind="Home" Width="30" Height="30" Margin="2" Foreground="White" VerticalAlignment="Center"/>
+                                <TextBlock Text="Недвижимость" FontSize="19" FontFamily="Times New Roman" Foreground="White" VerticalAlignment="Center" Margin="13 10"/>
+                            </StackPanel>
+                        </ListViewItem>
+                        <ListViewItem Height="60" MouseLeftButtonUp="ListViewItemAgents_MouseLeftButtonUp">
+                            <StackPanel Orientation="Horizontal" Margin="3 0 0 0">
+                                <materialDesign:PackIcon Kind="UsersCheck" Width="30" Height="30" Margin="2" Foreground="White" VerticalAlignment="Center"/>
+                                <TextBlock Text="Агенты" FontSize="20" FontFamily="Times New Roman" Foreground="White" VerticalAlignment="Center" Margin="13 10"/>
+                            </StackPanel>
+                        </ListViewItem>
+                        
+                    </ListView>
+                </StackPanel>
+                <ListView ScrollViewer.HorizontalScrollBarVisibility="Disabled" VerticalAlignment="Bottom" MouseLeftButtonUp="ListViewItemSettings_MouseLeftButtonUp">
+                    <ListViewItem Height="50" >
+                        <StackPanel Orientation="Horizontal" Margin="3 0 0 0">
+                            <materialDesign:PackIcon Kind="Settings" Width="30" Height="30" Margin="2" Foreground="White" VerticalAlignment="Center"/>
+                            <TextBlock Text="Настройки" FontSize="20" FontFamily="Times New Roman" Foreground="White" VerticalAlignment="Center" Margin="13 10"/>
+                        </StackPanel>
+                    </ListViewItem>
+                </ListView>
+            </Grid>
+        </Grid>
+    </Grid>
+</Window>
